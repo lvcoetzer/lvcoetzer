@@ -11,3 +11,6 @@ using Python and the casavlbitools library with JSON input files.
 
 I decided to start uploading my code as a way of backing it up for future reference; note that I'm by no means an efficient coder. My Python code might make some people
 cringe to death
+
+![VLA](https://user-images.githubusercontent.com/131813102/234411047-d97c8571-b41f-402b-9ed5-3c568bf3b855.png)
+
